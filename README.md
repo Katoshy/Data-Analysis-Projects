@@ -48,6 +48,7 @@ It also visualizes the residuals of the predictions and plots the original vs pr
 Finally, the code uses scikit-learn's KMeans clustering algorithm to cluster the data into 8 clusters and evaluates the performance of the clustering using silhouette score, Davies-Bouldin score, and Calinski-Harabasz score.
 
 **Project #7** 🐹
+
 This is a Python script for analyzing the possum dataset using various machine learning models 
 such as logistic regression, decision tree, k-nearest neighbors, and support vector machine. 
 The script loads the dataset using Pandas and performs exploratory data analysis. 
