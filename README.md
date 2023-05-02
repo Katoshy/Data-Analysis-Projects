@@ -36,7 +36,7 @@ The analysis tasks include sorting data based on specific conditions and generat
 The notebook also creates a pivot table to show wind speed values across different dates.
 Overall, this notebook can help to identify patterns and trends in weather data, and can be useful for research or analysis purposes.
 
-**Project #6**
+**Project #6** 🐱‍👤
 
 This code imports necessary libraries and uses the pandas library to read a crime dataset in CSV format. 
 It selects a few independent features and a dependent feature, 
@@ -47,8 +47,7 @@ such as R^2, explained variance score, mean squared error, mean absolute error, 
 It also visualizes the residuals of the predictions and plots the original vs predicted values.
 Finally, the code uses scikit-learn's KMeans clustering algorithm to cluster the data into 8 clusters and evaluates the performance of the clustering using silhouette score, Davies-Bouldin score, and Calinski-Harabasz score.
 
-**Project #7**
-
+**Project #7** 🐹
 This is a Python script for analyzing the possum dataset using various machine learning models 
 such as logistic regression, decision tree, k-nearest neighbors, and support vector machine. 
 The script loads the dataset using Pandas and performs exploratory data analysis. 
